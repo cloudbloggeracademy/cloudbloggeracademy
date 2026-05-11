@@ -22,7 +22,7 @@ Our mission is simple: **Make every student industry-ready** — regardless of t
 
 | Course | Fee |
 |---|---|
-| ☁️ Microsoft Azure Administrator (AZ-104) | ₹999 |
+| 🔵 Microsoft Azure Administrator (AZ-104) | ₹999 |
 | 🟡 Google Cloud Platform (GCP) | ₹999 |
 | 🟠 Amazon Web Services (AWS) | ₹999 |
 
@@ -67,10 +67,12 @@ Our mission is simple: **Make every student industry-ready** — regardless of t
 - **Duration:** 4 Months
 - **Batch Start:** Last Week of Every Month
 - **What You'll Learn:**
-  - Microsoft Azure, AWS & Google Cloud
-  - Linux, Docker & Kubernetes
-  - Azure DevOps, GitHub & Ansible
-  - Azure Security & Cloud Architecture
+  - Microsoft Azure
+  - Redhat Enterpise Linux (RHEL)
+  - Docker & Azure Kubernetes Service
+  - Azure DevOps & GitHub 
+  - Terraform Automation
+  - Grafana & Microsoft Azure Monitor
 
 ---
 
@@ -134,7 +136,7 @@ Our mission is simple: **Make every student industry-ready** — regardless of t
 ```
 Every Month — LAST WEEK
 Live Online Sessions
-Zoom / Google Meet
+Zoom / Google Meet / Microsoft Team
 WhatsApp Community Support
 Recorded Sessions for Revision
 ```
