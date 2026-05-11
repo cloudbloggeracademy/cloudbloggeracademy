@@ -118,14 +118,14 @@ Our mission is simple: **Make every student industry-ready** — regardless of t
 
 ## Why Choose Cloud Blogger Academy?
 
-✔️ **Expert Trainer** — Real industry experience, not just theory
-✔️ **Live Interactive Classes** — Ask doubts in real time
-✔️ **Recorded Backups** — Missed a class? No problem
-✔️ **Hands-on Projects** — Build real things, not just notes
-✔️ **Job-Ready Curriculum** — Updated with current market demands
-✔️ **Community Support** — WhatsApp group + peer learning
-✔️ **Completion Certificate** — Add it to your resume with confidence
-✔️ **₹999 Per Course** — Most affordable, highest quality
+. ✔️ **Expert Trainer** — Real industry experience, not just theory
+. ✔️ **Live Interactive Classes** — Ask doubts in real time
+. ✔️ **Recorded Backups** — Missed a class? No problem
+. ✔️ **Hands-on Projects** — Build real things, not just notes
+. ✔️ **Job-Ready Curriculum** — Updated with current market demands
+. ✔️ **Community Support** — WhatsApp group + peer learning
+. ✔️ **Completion Certificate** — Add it to your resume with confidence
+. ✔️ **₹999 Per Course** — Most affordable, highest quality
 
 ---
 
