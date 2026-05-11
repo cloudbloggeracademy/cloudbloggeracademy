@@ -16,7 +16,7 @@ Our mission is simple: **Make every student industry-ready** — regardless of t
 
 ---
 
-## 📚 Individual Courses — ₹999 Each
+## Individual Courses — ₹999 Each
 
 ### ☁️ Cloud Platforms
 
