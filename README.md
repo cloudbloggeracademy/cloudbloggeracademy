@@ -2,9 +2,9 @@
 
 > **"Build a High-Paying Tech Career in Cloud, DevOps, AI/ML & Data Science — Enroll Today for Just ₹999!"**
 
-🌐 **Website:** [cloudbloggeracademy.com](https://cloudbloggeracademy.com)
-📧 **Email:** [cloudbloggeracademy@gmail.com](mailto:cloudbloggeracademy@gmail.com)
-📱 **WhatsApp:** [+91 7669688362](https://wa.me/917669688362)
+🌐**Website:** [cloudbloggeracademy.com](https://cloudbloggeracademy.com)
+**Email:** [cloudbloggeracademy@gmail.com](mailto:cloudbloggeracademy@gmail.com)
+**WhatsApp:** [+91 7669688362](https://wa.me/917669688362)
 
 ---
 
