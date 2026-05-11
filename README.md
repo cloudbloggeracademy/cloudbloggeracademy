@@ -54,9 +54,9 @@ Our mission is simple: **Make every student industry-ready** — regardless of t
 
 ## Live Online Batch Programs
 
-- 📅 **New batch starts every Last Week of the Month**
-- 🖥️ **100% Live Online Classes**
-- 📱 **WhatsApp Group Support Included**
+-  **New batch starts every Last Week of the Month**
+-  **100% Live Online Classes**
+-  **WhatsApp Group Support Included**
 
 ---
 
