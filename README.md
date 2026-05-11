@@ -66,7 +66,7 @@ From Linux to CI/CD to Kubernetes — a complete DevOps roadmap that companies a
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-🛒 **[Enroll in DevOps →](https://cloudbloggeracademy.com/training)**
+🛒 **[Enroll in DevOps →](https://cloudbloggeracademy.com/)**
 
 ---
 
