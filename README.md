@@ -10,7 +10,7 @@
 
 ## About Us
 
-**Cloud Blogger Academy** is India's most affordable platform for **World-Class Cloud & DevOps Training**.
+**Cloud Blogger Academy** is India's most affordable platform for **World-Class Cloud, DevOps, AI/ML, Generative AI & Data Science Training**.
 
 Our mission is simple: **Make every student industry-ready** — regardless of their financial background. We believe quality education should be accessible to everyone, which is why each individual course is priced at just **₹999**.
 
