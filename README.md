@@ -1,6 +1,6 @@
 # ☁️ Cloud Blogger Academy
 
-> **"Launch Your Cloud, DevOps, AI/Ml and Data Scientist Career — Starting at Just ₹999 per Course!"**
+> **"Build a High-Paying Tech Career in Cloud, DevOps, AI/ML & Data Science — Enroll Today for Just ₹999!"**
 
 🌐 **Website:** [cloudbloggeracademy.com](https://cloudbloggeracademy.com)
 📧 **Email:** [cloudbloggeracademy@gmail.com](mailto:cloudbloggeracademy@gmail.com)
