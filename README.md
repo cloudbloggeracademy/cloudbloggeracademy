@@ -42,7 +42,7 @@ Our mission is simple: **Make every student industry-ready** — regardless of t
 
 ---
 
-### 💻 Programming & AI
+### Programming & AI
 
 | Course | Fee |
 |---|---|
@@ -52,7 +52,7 @@ Our mission is simple: **Make every student industry-ready** — regardless of t
 
 ---
 
-## 🎓 Live Online Batch Programs
+## Live Online Batch Programs
 
 > 📅 **New batch starts every Last Week of the Month**
 > 🖥️ **100% Live Online Classes**
