@@ -170,6 +170,6 @@ Have questions? Want to enroll? Reach out anytime —
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cloudbloggeracademy@gmail.com)
 [![Website](https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://cloudbloggeracademy.com)
 
-**© 2025 Cloud Blogger Academy | All Rights Reserved**
+**© 2026 Cloud Blogger Academy | All Rights Reserved**
 
 </div>
