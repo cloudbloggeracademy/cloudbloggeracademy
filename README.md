@@ -60,7 +60,7 @@ Our mission is simple: **Make every student industry-ready** — regardless of t
 
 ---
 
-### 🌩️ Cloud + DevOps Master Program
+### Cloud + DevOps Master Program
 
 > *Complete Cloud and DevOps training — from scratch to job-ready*
 
