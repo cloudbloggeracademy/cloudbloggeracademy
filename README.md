@@ -1,4 +1,4 @@
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/11c87593-5ce6-4e1c-972b-cf8270ae465e" /># ☁️ Cloud Blogger Academy
+# ☁️ Cloud Blogger Academy
 
 > **"Build a High-Paying Tech Career in Cloud, DevOps, AI/ML & Data Science — Enroll Today for Just ₹999!"**
 
